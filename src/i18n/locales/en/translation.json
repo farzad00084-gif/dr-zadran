@@ -1,0 +1,781 @@
+{
+  "meta": {
+    "siteName": "Dr. Khalid Khan Zadran",
+    "home": {
+      "title": "Dr. Khalid Khan Zadran | Neurosurgeon in Kabul",
+      "description": "Professional website of Dr. Khalid Khan Zadran, consultant neurosurgeon and brain & spine surgeon in Kabul, Afghanistan. Profile, expertise, patient guidance, verified research, and clinic contact."
+    },
+    "about": {
+      "title": "About Dr. Khalid Khan Zadran | Professional Profile",
+      "description": "The professional profile of Dr. Khalid Khan Zadran: biography, supplied qualifications, verified fellowship, clinical affiliation, and public record in Kabul, Afghanistan."
+    },
+    "expertise": {
+      "title": "Neurosurgical Expertise | Dr. Khalid Khan Zadran",
+      "description": "An educational guide to neurosurgical practice and professional interests: brain and neurological conditions, complex neurotrauma, spine, research, and surgical technology."
+    },
+    "patientGuide": {
+      "title": "Patient Guide | Dr. Khalid Khan Zadran",
+      "description": "Practical guidance for contacting the clinic, preparing for a neurosurgical consultation, understanding the process, and seeking emergency care."
+    },
+    "research": {
+      "title": "Research & Publications | Dr. Khalid Khan Zadran",
+      "description": "Verified publications and stated research interests of Dr. Khalid Khan Zadran, with source links to PubMed, DOI records, and full text where available."
+    },
+    "contact": {
+      "title": "Contact Dr. Khalid Khan Zadran | Kabul",
+      "description": "Call the clinic on +93 78 765 4751 for enquiries and appointment arrangements. Rifah Medical Complex, Kabul, Afghanistan. Emergency guidance included."
+    },
+    "privacy": {
+      "title": "Privacy | Dr. Khalid Khan Zadran",
+      "description": "How this website handles privacy: no medical data collection, no analytics or advertising trackers, and only a language preference stored in your browser."
+    },
+    "notFound": {
+      "title": "Page Not Found | Dr. Khalid Khan Zadran",
+      "description": "The page you requested could not be found. Return to the homepage or contact the clinic."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "expertise": "Expertise",
+    "patientGuide": "Patient Guide",
+    "research": "Research",
+    "contact": "Contact"
+  },
+  "brand": {
+    "name": "Dr. Khalid Khan Zadran",
+    "role": "Consultant Neurosurgeon",
+    "roleFull": "Consultant Neurosurgeon | Brain & Spine Surgeon",
+    "monogram": "KZ",
+    "tagline": "The Art of Precision"
+  },
+  "header": {
+    "skipToContent": "Skip to content",
+    "menu": "Menu",
+    "openMenu": "Open navigation menu",
+    "closeMenu": "Close navigation menu",
+    "primaryNavigation": "Primary navigation",
+    "languageLabel": "Change language",
+    "currentLanguage": "Current language",
+    "callClinic": "Call clinic",
+    "callClinicAria": "Call the clinic on {{phone}}",
+    "homeAria": "Dr. Khalid Khan Zadran — homepage",
+    "menuTitle": "Navigation",
+    "menuContactLabel": "Clinic telephone"
+  },
+  "footer": {
+    "description": "A professional record of Dr. Khalid Khan Zadran's neurosurgical practice in Kabul, with practical guidance for patients and families.",
+    "navigationTitle": "Navigate",
+    "contactTitle": "Clinic",
+    "languageTitle": "Language",
+    "legalTitle": "Information",
+    "affiliationLabel": "Clinical affiliation",
+    "phoneLabel": "Clinic telephone",
+    "privacy": "Privacy",
+    "disclaimerTitle": "Medical disclaimer",
+    "disclaimer": "This website provides general professional and educational information. It is not medical advice, a diagnosis, or a treatment plan, and it does not replace an individual consultation with a qualified clinician. Always seek the advice of a physician regarding a medical condition. In an emergency, contact the nearest appropriate emergency service immediately.",
+    "emergency": "This website is not monitored for emergencies.",
+    "copyright": "© {{year}} Dr. Khalid Khan Zadran. All rights reserved.",
+    "translationReview": "The {{language}} translation has not yet been reviewed by a medical professional. If anything is unclear, please call the clinic.",
+    "facebookAria": "Official Facebook page of Dr. Khalid Khan Zadran (opens in a new tab)",
+    "editorialNote": "Editorial website · Content status recorded",
+    "siteBy": "Professional portfolio"
+  },
+  "media": {
+    "notClinic": "Not the clinic.",
+    "instrumentStudy": {
+      "alt": "Historical Horsley-type skull saw, an early neurosurgical instrument, photographed against a dark background.",
+      "caption": "Historical neurosurgical instrument study."
+    },
+    "neuroimaging": {
+      "alt": "A black-and-white sheet of brain CT scan images arranged in a grid.",
+      "caption": "Illustrative neuroimaging study."
+    },
+    "microscope": {
+      "alt": "Close-up of the objective lenses and stage of a laboratory microscope.",
+      "caption": "Laboratory microscope, illustrative."
+    },
+    "hospitalInterior": {
+      "alt": "An empty hospital corridor with chairs, closed doors, and soft overhead lighting.",
+      "caption": "Illustrative hospital interior."
+    },
+    "doctorHero": {
+      "alt": "Dr. Khalid Khan Zadran seated in a dark armchair, holding a cup and saucer.",
+      "caption": "Dr. Khalid Khan Zadran — portrait."
+    },
+    "doctorOffice": {
+      "alt": "Dr. Khalid Khan Zadran seated at a desk in a clinic room.",
+      "caption": "Dr. Khalid Khan Zadran — office review."
+    },
+    "brainNeurons": {
+      "alt": "Illustrative three-dimensional depiction of neurons and blood vessels.",
+      "caption": "Brain and nervous system."
+    },
+    "brainNetwork": {
+      "alt": "Colourful illustration of connected brain pathways.",
+      "caption": "Brain activity and research."
+    },
+    "spine": {
+      "alt": "Illustrative digital view of the lumbar spine.",
+      "caption": "Spine."
+    },
+    "imaging": {
+      "alt": "Illustrative grid of brain CT and MRI scan images.",
+      "caption": "Neuroimaging."
+    },
+    "surgery": {
+      "alt": "Illustrative surgical team in an operating theatre.",
+      "caption": "Surgery."
+    }
+  },
+  "common": {
+    "callClinic": "Call the clinic",
+    "contactClinic": "Contact the clinic",
+    "exploreExpertise": "Explore expertise",
+    "viewProfile": "View professional profile",
+    "readPatientGuide": "Read the patient guide",
+    "viewResearch": "View research & publications",
+    "viewAllExpertise": "Explore all areas",
+    "learnMore": "Learn more",
+    "backHome": "Return to homepage",
+    "phone": "Telephone",
+    "clinicLine": "Clinic line",
+    "location": "Location",
+    "clinicalAffiliation": "Clinical affiliation",
+    "verified": "Verified",
+    "supplied": "Supplied",
+    "pending": "Pending confirmation",
+    "source": "Source",
+    "sources": "Sources",
+    "opensInNewTab": "opens in a new tab",
+    "externalLink": "External link",
+    "whatsapp": "WhatsApp",
+    "whatsappPendingShort": "WhatsApp confirmation pending",
+    "whatsappPendingNote": "This number has not yet been confirmed as WhatsApp-enabled. Please call the clinic.",
+    "emergency": "Medical emergency?",
+    "emergencyAction": "Seek the nearest appropriate emergency service immediately. Do not wait for a routine appointment or an online reply.",
+    "lastUpdated": "Last updated",
+    "readMore": "Read more",
+    "breadcrumb": "Breadcrumb",
+    "pageLabel": "Page",
+    "notAvailable": "Not yet confirmed",
+    "verifiedPublication": "Verified publication",
+    "reviewed": "Reviewed",
+    "close": "Close",
+    "menu": "Menu",
+    "loading": "Loading…"
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "The Art of Precision · Kabul, Afghanistan",
+      "name": "Khalid Khan Zadran",
+      "namePrefix": "Dr.",
+      "role": "Consultant Neurosurgeon | Brain & Spine Surgeon",
+      "statement": "Precision in neurosurgery.",
+      "statementItalic": "Care beyond the procedure.",
+      "intro": "A professional record of Dr. Khalid Khan Zadran's neurosurgical practice in Kabul, and a clear place for patients, families, and referring colleagues to find the information they need.",
+      "primary": "Contact the clinic",
+      "secondary": "Explore expertise",
+      "portraitLabel": "Portrait pending approval",
+      "portraitCaption": "Reserved for an authorised photograph of Dr. Zadran.",
+      "portraitNote": "This is a designed placeholder, not a portrait. The final image must be supplied or approved by the doctor before publication.",
+      "scroll": "Read the profile",
+      "affiliationLabel": "Clinical affiliation",
+      "affiliationValue": "Rifah Medical Complex",
+      "locationLabel": "Kabul, Afghanistan",
+      "contactLabel": "Clinic line",
+      "statusLabel": "Public record",
+      "statusValue": "Verified sources linked",
+      "verticalCaption": "Neurological surgery · Kabul"
+    },
+    "intro": {
+      "eyebrow": "01 / Introduction",
+      "heading": "A practice built on careful judgement.",
+      "lead": "Dr. Khalid Khan Zadran is a consultant neurosurgeon and brain & spine surgeon based in Kabul, Afghanistan.",
+      "body": "His professional record includes neurosurgical training, clinical practice, and a stated interest in brain disorder research, complex neurotrauma, spinal interventions, and the thoughtful integration of modern surgical technology. This website is an editorial record of what is known, what is documented, and how patients can reach the clinic. Where information still requires verification, it is not presented as fact.",
+      "link": "Read the professional profile",
+      "asideLabel": "At a glance",
+      "asideRole": "Role",
+      "asideRoleValue": "Consultant Neurosurgeon",
+      "asideBase": "Based in",
+      "asideBaseValue": "Kabul, Afghanistan",
+      "asideFocus": "Focus",
+      "asideFocusValue": "Brain, spine & neurotrauma",
+      "asideContact": "Clinic line"
+    },
+    "interlude": {
+      "eyebrow": "Interlude / The Art of Precision",
+      "line1": "The art of",
+      "line2": "precision",
+      "line3": "is knowing where to look.",
+      "body": "The work is measured in millimetres, but it begins with attention: to the person, the history, the image, and the question that has not yet been asked.",
+      "points": [
+        "Observation before intervention",
+        "Judgement before technique",
+        "Clarity before complexity"
+      ],
+      "caption": "A working principle · Kabul",
+      "index": "01 — 03"
+    },
+    "expertise": {
+      "eyebrow": "02 / Areas of focus",
+      "heading": "Four fields, approached with precision.",
+      "intro": "An overview of the clinical areas and professional interests associated with Dr. Zadran. This is not a list of guaranteed services or outcomes; suitability is always determined through individual assessment.",
+      "link": "Explore expertise",
+      "footnote": "Educational overview only. Nothing here is a diagnosis or treatment recommendation."
+    },
+    "journey": {
+      "eyebrow": "03 / The record",
+      "heading": "Qualifications, held to the record.",
+      "intro": "Credentials are presented as supplied. Institutional details, dates, and additional distinctions are published only after confirmation.",
+      "credentialsLabel": "Supplied qualifications",
+      "verifiedNote": "FCPS (Neurosurgery) is corroborated by the doctor's public professional profiles. The remaining credentials are published as supplied and await documentary verification.",
+      "profileLink": "View the official public page",
+      "timelineNote": "No dated career chronology is invented for this website. A verified chronology will replace this note when the supporting records are available.",
+      "recordTitle": "Public record",
+      "recordBody": "Consultant neurosurgeon in Kabul; FCPS (Neurosurgery); one verified peer-reviewed publication in 2025.",
+      "recordLink": "Read the full record"
+    },
+    "research": {
+      "eyebrow": "04 / Research",
+      "heading": "Research, held to the published record.",
+      "intro": "Only work that can be attributed with reasonable confidence is listed. Publication metadata is linked to its indexed source.",
+      "link": "View research & publications",
+      "verifiedLabel": "Verified records",
+      "oneRecord": "One publication",
+      "journalLabel": "Journal",
+      "authorsLabel": "Authors",
+      "yearLabel": "Year",
+      "summary": "A hospital-based case-control study in Kabul examining reported head injury history among patients with brain tumors. The authors describe an association; the design does not establish causation.",
+      "sourceNote": "PubMed record · DOI · open full text"
+    },
+    "clinic": {
+      "eyebrow": "05 / Clinical affiliation",
+      "heading": "Rifah Medical Complex",
+      "city": "Kabul, Afghanistan",
+      "body": "For clinic enquiries and appointment arrangements, please call the clinic directly. The precise public address and official map listing are still being confirmed.",
+      "phoneLabel": "Clinic line",
+      "call": "Call the clinic",
+      "addressNote": "No map pin or directions are shown until the exact public location is verified.",
+      "hoursNote": "Opening hours are not published online. Please call to ask about current arrangements.",
+      "status": "Supplied affiliation · address pending"
+    },
+    "guide": {
+      "eyebrow": "06 / For patients",
+      "heading": "A first visit, made clearer.",
+      "intro": "Practical guidance on what to prepare, what a consultation may involve, and when not to wait for a routine appointment.",
+      "steps": [
+        {
+          "title": "Bring what you have",
+          "body": "Reports, medication details, and prior imaging help the consultation begin with context."
+        },
+        {
+          "title": "Write down your questions",
+          "body": "A short list of symptoms, concerns, and questions makes the conversation easier."
+        },
+        {
+          "title": "Call the clinic first",
+          "body": "Appointment arrangements are made directly with the clinic. This website cannot confirm a booking."
+        }
+      ],
+      "stepLabel": "Before you call",
+      "link": "Read the patient guide",
+      "emergency": "A serious head or spinal injury, a seizure, or a sudden change in consciousness needs emergency assessment — not a routine appointment."
+    },
+    "contact": {
+      "eyebrow": "07 / Contact",
+      "heading": "A considered first step.",
+      "intro": "For appointments and clinic enquiries, call the clinic directly. Please do not send urgent medical information by message or social media.",
+      "phoneNote": "The confirmed contact route for this website.",
+      "whatsappPending": "WhatsApp contact is awaiting clinic confirmation. The telephone line remains available.",
+      "primary": "Call the clinic",
+      "secondary": "All contact details",
+      "emergency": "This is not an emergency service. In an emergency, seek the nearest appropriate emergency care."
+    }
+  },
+  "about": {
+    "intro": {
+      "eyebrow": "02 / Professional profile",
+      "title": "A professional record, kept with precision.",
+      "lead": "The supplied and verified details of Dr. Khalid Khan Zadran's neurosurgical practice, qualifications, and clinical affiliation in Kabul.",
+      "breadcrumb": "About"
+    },
+    "biography": {
+      "eyebrow": "Biography",
+      "heading": "A neurosurgeon's practice, described carefully.",
+      "p1": "Dr. Khalid Khan Zadran is a consultant neurosurgeon and brain & spine surgeon based in Kabul, Afghanistan. His professional record includes medical education, postgraduate qualifications, neurosurgical training, and clinical practice.",
+      "p2": "His stated areas of professional interest include brain disorder research, complex neurotrauma, spinal interventions, and the integration of modern surgical technologies into neurological care. These are presented as areas of interest, not as a catalogue of confirmed services, procedures, or outcomes.",
+      "p3": "Public professional profiles identify him as a consultant neurosurgeon and FCPS-qualified in neurosurgery. A 2025 peer-reviewed publication in the Asian Journal of Neurosurgery lists him as an author; the study was conducted at Ali Abad University Hospital in Kabul. Institutional chronology, membership standing, and other details remain under verification and are not asserted here.",
+      "p4": "The clinical affiliation supplied for this website is Rifah Medical Complex, Kabul. The precise public address and map listing have not been confirmed and are therefore not shown.",
+      "factLabel": "Profile record",
+      "facts": {
+        "name": "Full name",
+        "role": "Professional title",
+        "based": "Based in",
+        "affiliation": "Clinical affiliation",
+        "phone": "Clinic line",
+        "publicProfile": "Public profile",
+        "status": "Content status"
+      },
+      "statusValue": "Supplied and verified details published; unconfirmed chronology withheld",
+      "facebookLink": "Official Facebook page"
+    },
+    "credentials": {
+      "eyebrow": "Education & qualifications",
+      "heading": "The credentials, exactly as supplied.",
+      "intro": "No issuing institution, graduation year, or additional certification is assigned to these qualifications on this website.",
+      "note": "Presented as supplied. Documentary verification of institutions and dates is pending.",
+      "suppliedLabel": "Supplied credential",
+      "verifiedLabel": "Publicly corroborated"
+    },
+    "memberships": {
+      "eyebrow": "Professional fellowship",
+      "heading": "Affiliation, without overstatement.",
+      "body": "A fellowship is a professional qualification, not a guarantee of outcomes or a substitute for local licensure. Membership in a society is distinct from certification by that society.",
+      "fellowshipLabel": "Fellowship",
+      "fellowshipName": "College of Physicians and Surgeons Pakistan",
+      "fellowshipDetail": "FCPS (Neurosurgery)",
+      "fellowshipNote": "Corroborated by the doctor's public professional profiles and by the professional title used on his official page.",
+      "pendingTitle": "Additional affiliations under review",
+      "pendingBody": "Other society memberships supplied for this project are withheld from publication until their category and current standing are independently confirmed. They will be added only with the doctor's approval.",
+      "verifiedLabel": "Publicly corroborated",
+      "reviewLabel": "Held for verification"
+    },
+    "record": {
+      "eyebrow": "Professional record",
+      "heading": "Categorised, not invented.",
+      "intro": "Where verified dates are unavailable, information is organised by category rather than composed into a false chronology.",
+      "note": "This is not a complete curriculum vitae. It reflects the information confirmed for this edition of the website.",
+      "items": {
+        "role": {
+          "label": "Clinical role",
+          "value": "Consultant Neurosurgeon | Brain & Spine Surgeon"
+        },
+        "fellowship": {
+          "label": "Neurosurgical fellowship",
+          "value": "FCPS (Neurosurgery)"
+        },
+        "affiliation": {
+          "label": "Clinical affiliation",
+          "value": "Rifah Medical Complex, Kabul"
+        },
+        "publication": {
+          "label": "Verified publication",
+          "value": "Asian Journal of Neurosurgery, 2025"
+        }
+      }
+    },
+    "philosophy": {
+      "eyebrow": "A note on the practice",
+      "heading": "Care begins with listening.",
+      "body": "Good neurosurgical care begins with listening, careful evaluation, and a clear explanation. Decisions should involve the patient and family, reflect the available evidence, and remain specific to the individual. This website is written in that spirit: measured, transparent, and free of promises about outcomes.",
+      "attribution": "Editorial statement about the practice — not a quotation from Dr. Zadran."
+    },
+    "contact": {
+      "heading": "Speak to the clinic directly.",
+      "body": "For appointments and clinical enquiries, the telephone line is the confirmed route. Appointment availability is confirmed by the clinic, not by this website.",
+      "cta": "View contact details"
+    }
+  },
+  "expertise": {
+    "intro": {
+      "eyebrow": "03 / Expertise",
+      "title": "The work begins with looking closer.",
+      "lead": "An educational guide to the areas of neurosurgical practice and professional interest associated with Dr. Khalid Khan Zadran. It describes scope, not a promise of treatment.",
+      "note": "General information only. Clinical suitability requires individual assessment, and not every condition mentioned here requires surgery.",
+      "breadcrumb": "Expertise",
+      "indexLabel": "Areas of focus"
+    },
+    "areas": {
+      "brain": {
+        "title": "Brain & neurological conditions",
+        "summary": "Neurosurgical evaluation for selected conditions affecting the brain and nervous system.",
+        "body": "Neurosurgery is one part of a wider care team. Some neurological symptoms require surgical assessment; many are investigated and managed by neurologists, physicians, or other specialists. A consultation is a chance to clarify what is happening, review the available imaging and tests, and decide which kind of care is appropriate.",
+        "fieldLabel": "Within this field",
+        "scope": [
+          "Neurosurgical evaluation of selected conditions",
+          "Second-opinion discussions",
+          "Coordination with neurology and other specialties"
+        ],
+        "link": "What to expect at a consultation"
+      },
+      "neurotrauma": {
+        "title": "Complex neurotrauma",
+        "summary": "Assessment and care of significant injury involving the brain, spine, or nervous system.",
+        "body": "Neurotrauma covers a wide range of injury, from a minor blow to the head to a serious injury involving the brain or spinal cord. The response should match the severity. A routine clinic appointment is not appropriate for an acute emergency. Confusion, repeated vomiting, seizures, weakness, or loss of consciousness after a head injury need urgent assessment.",
+        "fieldLabel": "Within this field",
+        "scope": [
+          "Emergency assessment of significant injury",
+          "Imaging review and specialist coordination",
+          "Surgical and non-surgical care pathways",
+          "Rehabilitation and follow-up planning"
+        ],
+        "link": "Read emergency guidance"
+      },
+      "spine": {
+        "title": "Spine & spinal interventions",
+        "summary": "Neurosurgical assessment of selected spinal conditions affecting nerves or the spinal cord.",
+        "body": "Many spinal symptoms improve with time and non-surgical care. Neurosurgical input is usually considered when there is a specific pattern of nerve compression, instability, or another finding that may benefit from intervention. Imaging is interpreted together with the history and examination, not in isolation.",
+        "fieldLabel": "Within this field",
+        "scope": [
+          "Degenerative spinal conditions",
+          "Nerve compression and spinal instability",
+          "Selected spinal interventions",
+          "Review of prior imaging and reports"
+        ],
+        "link": "Contact the clinic"
+      },
+      "research": {
+        "title": "Brain disorder research",
+        "summary": "A professional interest in the causes, patterns, and care of neurological disease.",
+        "body": "Research helps clinical practice ask better questions. Dr. Zadran's stated interest includes brain disorder research and neurotrauma. The public record currently lists one verified journal publication; research interests are not presented as completed projects, unpublished findings, or a broader publication record.",
+        "fieldLabel": "Stated professional interests",
+        "scope": [
+          "Brain disorder research",
+          "Neurotrauma",
+          "Evidence-informed clinical practice"
+        ],
+        "link": "View the verified publication"
+      },
+      "technology": {
+        "title": "Surgical technology",
+        "summary": "The responsible use of modern tools within neurological care.",
+        "body": "Modern neurosurgery draws on imaging, navigation, monitoring, and other technologies where they are appropriate and available. Technology can improve precision and safety, but it supports clinical judgement rather than replacing it. No specific equipment, navigation system, or robotic capability is attributed to the doctor or clinic on this website without confirmation.",
+        "fieldLabel": "General field",
+        "scope": [
+          "Image-guided surgical planning",
+          "Intraoperative monitoring",
+          "Technology-enabled precision and safety"
+        ],
+        "link": "Ask the clinic"
+      }
+    },
+    "noticeTitle": "A note on scope",
+    "notice": "This page provides general educational information about fields of neurosurgical practice. It does not list every condition, imply that every treatment is offered, or provide a diagnosis or treatment plan. The clinic can explain which services are currently available.",
+    "ctaTitle": "Questions about a specific concern?",
+    "ctaBody": "A clinic consultation is the appropriate place to discuss symptoms, reports, and whether neurosurgical assessment is relevant. For an emergency, do not wait for a clinic appointment.",
+    "cta": "Contact the clinic",
+    "emergencyLink": "Emergency guidance"
+  },
+  "patientGuide": {
+    "intro": {
+      "eyebrow": "04 / Patient guide",
+      "title": "Arriving prepared, without having to guess.",
+      "lead": "Practical guidance for patients and families who are contacting the clinic or preparing for a neurosurgical consultation. You do not need to know the right medical terms to begin.",
+      "note": "This page is general information. It does not replace an examination or an individual medical opinion.",
+      "pill": "Medical emergency? Seek urgent help",
+      "breadcrumb": "Patient Guide"
+    },
+    "contact": {
+      "eyebrow": "Contacting the clinic",
+      "heading": "One confirmed route.",
+      "body": "The telephone line below is the confirmed contact route for clinic enquiries and appointment arrangements. The clinic will explain what is needed and whether an appointment is available.",
+      "phoneLabel": "Clinic line",
+      "call": "Call the clinic",
+      "whatsapp": "WhatsApp contact is awaiting confirmation and is not currently shown as an active route.",
+      "address": "Rifah Medical Complex, Kabul, Afghanistan",
+      "appointmentNote": "Appointments are confirmed by the clinic, not by this website. A call does not reserve a place until the clinic confirms it."
+    },
+    "prepare": {
+      "eyebrow": "Before an appointment",
+      "heading": "What may help to bring.",
+      "intro": "These are general suggestions, not rigid requirements. The clinic may ask for additional information or arrange further tests.",
+      "items": [
+        {
+          "title": "Medical reports",
+          "body": "Relevant consultation notes, discharge summaries, or reports from other clinicians."
+        },
+        {
+          "title": "Current medications",
+          "body": "A list of medicines, doses, and any known allergies. Include treatments you take without a prescription."
+        },
+        {
+          "title": "Prior imaging and tests",
+          "body": "Any relevant scans, discs, or test results, including those from other hospitals if available."
+        },
+        {
+          "title": "Symptoms and questions",
+          "body": "A short written list of what you have noticed, when it began, and what you want to ask."
+        },
+        {
+          "title": "Additional information",
+          "body": "The clinic may request records, identification, or further investigations. Ask what is needed when you call."
+        }
+      ],
+      "note": "Do not send medical records or sensitive health information through social media or an unsecured message."
+    },
+    "consultation": {
+      "eyebrow": "Understanding a consultation",
+      "heading": "A conversation, an examination, a plan.",
+      "intro": "A consultation is not a single fixed script. What happens depends on the concern and the information available. It may include the following elements.",
+      "steps": [
+        {
+          "title": "History",
+          "body": "A discussion of symptoms, their timing, relevant medical history, and the impact on daily life."
+        },
+        {
+          "title": "Examination",
+          "body": "A focused physical and neurological examination where appropriate."
+        },
+        {
+          "title": "Review",
+          "body": "Review of imaging, reports, medications, and tests brought to the consultation."
+        },
+        {
+          "title": "Discussion",
+          "body": "An explanation of what is known, what remains uncertain, and which options may be relevant."
+        },
+        {
+          "title": "Next steps",
+          "body": "Further tests, a non-surgical plan, a surgical discussion, or referral may be considered. No outcome is guaranteed."
+        }
+      ],
+      "note": "This describes a typical process in general terms. It is not a promise of what will happen at a particular appointment."
+    },
+    "faq": {
+      "eyebrow": "Common questions",
+      "heading": "Clear answers, where they are known.",
+      "items": [
+        {
+          "q": "How do I contact the clinic?",
+          "a": "Call +93 78 765 4751. The telephone line is the confirmed route for clinic enquiries and appointment arrangements. WhatsApp is not currently shown as active because the number has not yet been verified as WhatsApp-enabled."
+        },
+        {
+          "q": "What information should I prepare?",
+          "a": "It may help to bring relevant reports, a current medication list, prior imaging or test results, and a written list of symptoms and questions. The clinic can tell you if anything else is needed."
+        },
+        {
+          "q": "How can I ask about an appointment?",
+          "a": "Call the clinic directly. An appointment is only confirmed when the clinic confirms it. This website cannot reserve or guarantee an appointment."
+        },
+        {
+          "q": "What should I do if I have a medical emergency?",
+          "a": "Seek the nearest appropriate emergency service immediately. Do not wait for a routine appointment, a telephone reply, or a WhatsApp message. This website is not monitored for emergencies."
+        },
+        {
+          "q": "How can I obtain information about consultation arrangements?",
+          "a": "Clinic-specific arrangements, availability, and any fees are not published here because they have not been confirmed. Please call the clinic and ask directly."
+        }
+      ],
+      "note": "Answers reflect only the information confirmed for this website. Clinic-specific details should always be confirmed by telephone."
+    },
+    "emergency": {
+      "eyebrow": "Emergency guidance",
+      "heading": "Some symptoms should not wait.",
+      "body": "A serious head or spinal injury, a seizure, or a sudden neurological change can require emergency medical assessment. Do not use this website, social media, or a routine clinic call as an emergency response service.",
+      "signsTitle": "Seek urgent medical assessment for:",
+      "signs": [
+        "Sudden weakness or numbness, especially on one side",
+        "Facial drooping or difficulty speaking",
+        "A seizure, especially a first seizure",
+        "Loss of consciousness or worsening confusion",
+        "Repeated vomiting or severe headache after a head injury",
+        "A serious injury to the head, neck, or spine"
+      ],
+      "action": "Go to the nearest appropriate emergency service or call local emergency services if you can. No local emergency number is published here because it has not been verified.",
+      "note": "If you are unsure how serious a symptom is, seek urgent medical advice rather than waiting."
+    },
+    "cta": {
+      "heading": "Still unsure what to do next?",
+      "body": "For a non-urgent clinic enquiry, call +93 78 765 4751. The clinic can explain its current arrangements. For an emergency, seek urgent care immediately.",
+      "call": "Call the clinic",
+      "contact": "Contact page"
+    }
+  },
+  "research": {
+    "intro": {
+      "eyebrow": "05 / Research",
+      "title": "The published record.",
+      "lead": "A careful account of verified academic work. Nothing on this page is generated to fill space.",
+      "note": "Publication metadata is reproduced from indexed records. The plain-language summary stays close to the published abstract and adds no new findings.",
+      "breadcrumb": "Research",
+      "recordsVerified": "Records verified: {{count}}",
+      "lastVerified": "Last verified: 22 October 2026"
+    },
+    "method": {
+      "eyebrow": "Method",
+      "heading": "How a record is verified.",
+      "body": "Records are checked against PubMed and DOI metadata. Author affiliation, subject matter, and the doctor's public professional identity are considered together. A matching name alone is not treated as proof of identity. Items that cannot be attributed with reasonable confidence are omitted rather than guessed.",
+      "sourceNote": "Verification sources for the listed record are linked below. The publisher's article page and full text are also available where open access permits.",
+      "status": "Verified against indexed metadata"
+    },
+    "publications": {
+      "eyebrow": "Publications",
+      "heading": "Verified work.",
+      "authors": "Authors",
+      "journal": "Journal",
+      "year": "Year",
+      "volume": "Volume",
+      "pages": "Pages",
+      "doi": "DOI",
+      "pubmed": "PubMed record",
+      "pmc": "Open full text",
+      "doiLabel": "Publisher DOI",
+      "verifiedOn": "Verified on",
+      "summaryLabel": "Plain-language summary",
+      "sourceLabel": "Source links",
+      "typeLabel": "Type",
+      "typeJournal": "Peer-reviewed journal article",
+      "emptyTitle": "No verified publications are currently listed.",
+      "emptyBody": "This page is ready for publication records, but none can be attributed with sufficient confidence at present. No placeholder research has been added. Verified records will appear here when available.",
+      "emptyAction": "Contact the clinic",
+      "tawhid2025": {
+        "summary": "An observational case-control study at Ali Abad University Hospital in Kabul, comparing 64 patients with brain tumors and 159 matched controls. The authors reported an association between a history of head injury and a brain tumor diagnosis. The study design can show an association, not causation.",
+        "note": "The publication reports an association. It does not establish that head injury causes brain tumors."
+      }
+    },
+    "interests": {
+      "eyebrow": "Professional interests",
+      "heading": "Questions that shape the practice.",
+      "intro": "Dr. Zadran's supplied professional interests include the following. They are areas of interest, not a list of funded projects, publications, or confirmed services.",
+      "items": [
+        {
+          "title": "Brain disorder research",
+          "body": "Understanding the patterns, causes, and care of neurological disease."
+        },
+        {
+          "title": "Complex neurotrauma",
+          "body": "Improving the assessment and coordination of serious neurological injury."
+        },
+        {
+          "title": "Spinal interventions",
+          "body": "Careful selection and evaluation of spinal neurosurgical care."
+        },
+        {
+          "title": "Modern surgical technology",
+          "body": "Using technology where it genuinely supports precision and safety."
+        }
+      ],
+      "note": "Research interests are not presented as completed research or as evidence of a particular clinical outcome."
+    },
+    "cta": {
+      "heading": "A question about the published work?",
+      "body": "For clinical enquiries, contact the clinic directly. For questions about a publication, please refer to the linked source record; this website does not provide the doctor's personal contact details.",
+      "call": "Contact the clinic"
+    }
+  },
+  "contact": {
+    "intro": {
+      "eyebrow": "06 / Contact",
+      "title": "Reach the clinic.",
+      "lead": "Clinic enquiries and appointment arrangements are handled by telephone. Please call the clinic directly; the details below are the confirmed route supplied for this website.",
+      "breadcrumb": "Contact"
+    },
+    "phone": {
+      "eyebrow": "Primary contact",
+      "heading": "Clinic telephone",
+      "label": "Supplied clinic line",
+      "note": "The telephone line is the confirmed contact route for this website. It is intended for clinic enquiries and appointment arrangements, not emergency care.",
+      "action": "Call the clinic",
+      "availability": "Opening hours and response times are not published because they have not been confirmed. Please call to ask about current arrangements."
+    },
+    "whatsapp": {
+      "eyebrow": "Messaging",
+      "heading": "WhatsApp",
+      "status": "Confirmation pending",
+      "body": "The supplied number has not yet been verified as WhatsApp-enabled. No active WhatsApp link is shown until the clinic confirms it and the link is tested. Please use the telephone line in the meantime.",
+      "fallback": "Call instead",
+      "note": "Do not send medical records, symptoms, or other sensitive health information through social media."
+    },
+    "location": {
+      "eyebrow": "Location",
+      "heading": "The clinic in Kabul.",
+      "clinicLabel": "Clinical affiliation",
+      "clinic": "Rifah Medical Complex",
+      "city": "Kabul, Afghanistan",
+      "note": "The precise public address and official map listing have not been confirmed. This site therefore shows no map pin or directions until they are verified.",
+      "status": "Address and map pending confirmation"
+    },
+    "facebook": {
+      "eyebrow": "Public profile",
+      "heading": "Official Facebook page.",
+      "body": "The link below leads to the public Facebook page maintained under Dr. Zadran's name. External content is governed by that platform's terms and is not controlled by this website.",
+      "link": "Visit the official page",
+      "verified": "Public page verified"
+    },
+    "expectations": {
+      "eyebrow": "Before you call",
+      "heading": "What to expect.",
+      "items": [
+        {
+          "title": "Clinic enquiries",
+          "body": "Use the telephone line for appointment arrangements and general clinic information."
+        },
+        {
+          "title": "Not an emergency service",
+          "body": "The clinic line and this website are not monitored as emergency services. Do not wait for a reply in an emergency."
+        },
+        {
+          "title": "Sensitive information",
+          "body": "Do not send medical records, test results, or detailed health information through social media or an unsecured message."
+        }
+      ],
+      "note": "No email address, opening hours, response time, or additional telephone number is published because none has been confirmed for this project."
+    },
+    "emergency": {
+      "eyebrow": "Emergency guidance",
+      "heading": "In an emergency, do not wait for a reply.",
+      "body": "Sudden weakness, facial drooping, difficulty speaking, a seizure, loss of consciousness, or a serious head or spinal injury can require immediate medical assessment.",
+      "action": "Seek the nearest appropriate emergency service immediately. This website and its contact channels are not emergency response services.",
+      "signs": [
+        "Sudden weakness or numbness",
+        "Facial drooping or speech difficulty",
+        "Seizure or loss of consciousness",
+        "Serious head, neck, or spinal injury"
+      ]
+    }
+  },
+  "privacy": {
+    "intro": {
+      "eyebrow": "Information",
+      "title": "Privacy, plainly stated.",
+      "lead": "This website is a professional information site. It is designed to collect as little as possible.",
+      "breadcrumb": "Privacy",
+      "updated": "Last updated: 22 October 2026"
+    },
+    "sections": [
+      {
+        "title": "What this site does not collect",
+        "body": "There are no patient accounts, appointment forms, medical record uploads, contact forms, analytics scripts, advertising trackers, or third-party tracking pixels. The site does not ask you for symptoms, diagnoses, or medical records."
+      },
+      {
+        "title": "Language preference",
+        "body": "When you choose a language, the preference is stored in your browser's local storage so the site can remember it. It is not sent to a server by this website. You can clear it through your browser settings."
+      },
+      {
+        "title": "Contact links",
+        "body": "Calling or messaging the clinic opens your telephone or messaging application. Your provider's privacy terms apply. WhatsApp is not currently activated. Do not send sensitive medical information through social media or unsecured messages."
+      },
+      {
+        "title": "External links",
+        "body": "Links to PubMed, DOI records, the official Facebook page, and other external sites lead to services governed by their own privacy policies. This website does not control those services."
+      },
+      {
+        "title": "Changes and questions",
+        "body": "If the site's data practices change, this page will be updated. For a privacy question about the website, contact the clinic by telephone. This page is general information, not legal advice."
+      }
+    ],
+    "contact": {
+      "heading": "A question about this page?",
+      "body": "Call the clinic on +93 78 765 4751 for clinic enquiries. Please do not send medical records or sensitive information through social media.",
+      "cta": "Contact details"
+    }
+  },
+  "notFound": {
+    "eyebrow": "404 / Not found",
+    "title": "This page is not part of the record.",
+    "body": "The address may be incorrect, or the page may have moved. The navigation below will take you back to the available sections of the website.",
+    "home": "Return to homepage",
+    "contact": "Contact the clinic",
+    "linksLabel": "Available pages"
+  },
+  "disclaimer": {
+    "short": "General professional information only. Not a substitute for individual medical evaluation.",
+    "emergency": "For a medical emergency, seek the nearest appropriate emergency service immediately."
+  },
+  "languages": {
+    "en": "English",
+    "fa": "دری",
+    "ps": "پښتو"
+  }
+}

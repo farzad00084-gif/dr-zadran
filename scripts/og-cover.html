@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <style>
+      * { box-sizing: border-box; }
+      html, body { margin: 0; width: 1200px; height: 630px; overflow: hidden; }
+      body {
+        background: #0f392f;
+        color: #faf8f3;
+        font-family: "Segoe UI", Arial, sans-serif;
+        position: relative;
+      }
+      .grid {
+        position: absolute;
+        inset: 0;
+        background-image:
+          linear-gradient(rgba(222, 229, 216, 0.07) 1px, transparent 1px),
+          linear-gradient(90deg, rgba(222, 229, 216, 0.07) 1px, transparent 1px);
+        background-size: 60px 60px;
+      }
+      .arc {
+        position: absolute;
+        width: 620px;
+        height: 620px;
+        border: 1px solid rgba(222, 229, 216, 0.14);
+        border-radius: 50%;
+        right: -170px;
+        bottom: -270px;
+      }
+      .arc.two { width: 440px; height: 440px; right: -80px; bottom: -180px; }
+      .frame { position: absolute; inset: 34px; border: 1px solid rgba(201, 165, 90, 0.45); }
+      .content { position: absolute; inset: 64px 74px; display: flex; flex-direction: column; }
+      .top { display: flex; justify-content: space-between; align-items: flex-start; }
+      .brand { font-family: Georgia, "Times New Roman", serif; font-size: 24px; letter-spacing: 0.02em; }
+      .brand span { color: #c9a55a; }
+      .kicker { font-size: 11px; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(222, 229, 216, 0.62); }
+      .monogram {
+        width: 62px; height: 62px; border: 1px solid rgba(201, 165, 90, 0.65);
+        display: flex; align-items: center; justify-content: center;
+        font-family: Georgia, serif; font-size: 25px; color: #faf8f3;
+      }
+      main { margin-top: 74px; max-width: 860px; }
+      .eyebrow { display: flex; align-items: center; gap: 12px; color: #c9a55a; font-size: 11px; font-weight: 700; letter-spacing: 0.19em; text-transform: uppercase; }
+      .eyebrow::before { content: ""; width: 34px; height: 1px; background: #c9a55a; }
+      h1 { margin: 17px 0 0; font-family: Georgia, "Times New Roman", serif; font-weight: 400; font-size: 64px; line-height: 0.98; letter-spacing: -0.035em; }
+      h1 em { color: #bee0d1; font-weight: 400; }
+      .sub { margin: 18px 0 0; max-width: 650px; font-size: 15px; line-height: 1.6; color: rgba(222, 229, 216, 0.7); }
+      footer { margin-top: auto; display: flex; justify-content: space-between; align-items: flex-end; border-top: 1px solid rgba(222, 229, 216, 0.2); padding-top: 17px; }
+      .meta { display: flex; gap: 30px; }
+      .meta p { margin: 0; }
+      .meta span { display: block; margin-bottom: 4px; font-size: 9px; letter-spacing: 0.13em; text-transform: uppercase; color: rgba(222, 229, 216, 0.45); }
+      .meta strong { font-size: 13px; font-weight: 600; color: rgba(250, 248, 243, 0.9); }
+      .phone { font-family: Georgia, serif; font-size: 22px; color: #faf8f3; }
+      .placeholder { color: rgba(222, 229, 216, 0.32); font-size: 9px; letter-spacing: 0.08em; }
+    </style>
+  </head>
+  <body>
+    <div class="grid"></div>
+    <div class="arc"></div>
+    <div class="arc two"></div>
+    <div class="frame"></div>
+    <div class="content">
+      <div class="top">
+        <div>
+          <div class="brand">KZ<span>.</span></div>
+          <p class="kicker" style="margin: 7px 0 0">Neurosurgeon · Kabul</p>
+        </div>
+        <div class="monogram">KZ</div>
+      </div>
+      <main>
+        <p class="eyebrow">The art of precision</p>
+        <h1>Dr. Khalid Khan<br /><em>Zadran</em></h1>
+        <p class="sub">Consultant neurosurgeon and brain &amp; spine surgeon. A professional record, patient guidance, and verified research.</p>
+      </main>
+      <footer>
+        <div class="meta">
+          <p><span>Location</span><strong>Kabul, Afghanistan</strong></p>
+          <p><span>Clinic</span><strong>Rifah Medical Complex</strong></p>
+        </div>
+        <div style="text-align: right">
+          <p class="phone" style="margin: 0">+93 78 765 4751</p>
+          <p class="placeholder" style="margin: 4px 0 0">CONSULTANT NEUROSURGEON · KABUL</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dr. Khalid Khan Zadran monogram">
+  <rect width="64" height="64" rx="4" fill="#0F392F"/>
+  <rect x="4" y="4" width="56" height="56" rx="1" fill="none" stroke="#C9A55A" stroke-width="1"/>
+  <text x="32" y="43" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="29" letter-spacing="-1" fill="#FAF8F3">KZ</text>
+  <rect x="32" y="49" width="13" height="1" fill="#C9A55A"/>
+</svg>

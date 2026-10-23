@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /404
+
+# The production origin is configured with SITE_URL (or VITE_SITE_URL).
+# scripts/prerender.mjs regenerates this file and sitemap.xml with that origin.
+Sitemap: https://drkhalidzadran.example/sitemap.xml
