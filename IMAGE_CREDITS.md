@@ -13,6 +13,10 @@ No stock portrait or patient photograph is used. The portrait on the homepage an
 
 Each photo is rendered with a visible caption and linked credit. The CC BY 4.0 licence applies to the historical instrument photograph; the three Unsplash photographs are used under the Unsplash License. Licence terms were reviewed at the source pages on 22 October 2026.
 
+## Original branding artwork
+
+The brain mark (`public/logo.svg`, `public/logo-inverse.svg`, `public/favicon.svg`) is original vector artwork created for this project — not adapted from any external source — and needs no attribution statement.
+
 ## Doctor-supplied imagery
 
 Dr. Khalid Khan Zadran personally supplied and approved the hero portrait, the office/review portrait, and five expertise-area illustrative images (neuronal organization, brain network paths, lumbar spine, neuroimaging sheets, and a surgical team). They were supplied as small web thumbnails and are locally reproduced in `public/images/doctor/` as WebP/JPEG derivatives by `npm run images:client`. Captions on the expertise illustrations state that they are illustrative and not the clinic or doctor.

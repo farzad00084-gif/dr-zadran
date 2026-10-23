@@ -24,9 +24,18 @@ export default function Footer({ lang }) {
             >
               <span
                 dir="ltr"
-                className="flex h-11 w-11 items-center justify-center border border-paper/30 font-display text-lg text-paper"
+                className="flex h-11 w-11 flex-none items-center justify-center border border-paper/30"
               >
-                KZ
+                <img
+                  src="/logo-inverse.svg"
+                  alt=""
+                  aria-hidden="true"
+                  width="44"
+                  height="44"
+                  loading="lazy"
+                  decoding="async"
+                  className="h-8 w-8"
+                />
               </span>
               <span>
                 <span className="block font-display text-2xl leading-tight">{t('brand.name')}</span>

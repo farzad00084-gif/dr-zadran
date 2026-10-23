@@ -45,9 +45,18 @@ export default function Header({ lang }) {
             >
               <span
                 dir="ltr"
-                className="flex h-10 w-10 flex-none items-center justify-center border border-forest/25 font-display text-lg leading-none text-forest transition-colors group-hover:border-gold group-hover:text-teal"
+                className="flex h-10 w-10 flex-none items-center justify-center border border-forest/25 transition-colors group-hover:border-gold"
               >
-                KZ
+                <img
+                  src="/logo.svg"
+                  alt=""
+                  aria-hidden="true"
+                  width="40"
+                  height="40"
+                  loading="eager"
+                  decoding="async"
+                  className="h-7 w-7"
+                />
               </span>
               <span className="min-w-0">
                 <span className="block truncate font-display text-[1.18rem] leading-tight text-forest sm:text-[1.35rem]">

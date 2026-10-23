@@ -1,6 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dr. Khalid Khan Zadran monogram">
+﻿<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dr. Khalid Khan Zadran neurosurgery mark">
   <rect width="64" height="64" rx="4" fill="#0F392F"/>
   <rect x="4" y="4" width="56" height="56" rx="1" fill="none" stroke="#C9A55A" stroke-width="1"/>
-  <text x="32" y="43" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="29" letter-spacing="-1" fill="#FAF8F3">KZ</text>
-  <rect x="32" y="49" width="13" height="1" fill="#C9A55A"/>
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Cerebrum -->
+    <path
+      d="M12 34 A6.5 6.5 0 0 1 15 21 A5.5 5.5 0 0 1 24 14.5 A6 6 0 0 1 36 13.5 A5.5 5.5 0 0 1 47 19 A7 7 0 0 1 52 32 C53 36 51 39.5 47.5 41 C43 43.5 37 42.5 33 40.5 C26 44 17 42 12 34 Z"
+      stroke="#FAF8F3" stroke-width="2.8"
+    />
+    <path d="M17 27 Q23 21.5 30 23.5 T42 21" stroke="#FAF8F3" stroke-width="2" />
+    <path d="M15.5 33 Q24 28.5 33 31 T47 28" stroke="#FAF8F3" stroke-width="2" />
+    <path d="M19 38.5 Q27 35.5 35 37.5 T45 35.5" stroke="#FAF8F3" stroke-width="2" />
+    <path d="M36 15 Q38.5 23 36.5 31" stroke="#C9A55A" stroke-width="2" />
+    <!-- Cerebellum -->
+    <path d="M13 45 Q17 42.5 21 44.5" stroke="#FAF8F3" stroke-width="2" />
+    <path d="M12 48.5 Q16.5 46 21 48" stroke="#FAF8F3" stroke-width="2" />
+    <path d="M13.5 52 Q17.5 50 21 51.5" stroke="#FAF8F3" stroke-width="2" />
+    <!-- Brain stem -->
+    <path d="M27 44 Q25.5 50 28.5 55" stroke="#FAF8F3" stroke-width="2.8" />
+  </g>
 </svg>
+
